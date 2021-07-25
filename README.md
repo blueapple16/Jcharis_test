@@ -1,2 +1,2 @@
-# Jcharis_test
-https://github.com/Jcharis/black-friday-sales_streamlit-app.git
+# black-friday-sales_streamlit-app
+Black Friday Sales Prediction &amp; Thanksgiving App
